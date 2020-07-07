@@ -1,5 +1,31 @@
-#done with the first exercise
-#enjoying the program
-#getting better
-#getting better with this 'git' stuff
-#hope i'm doing the right thing#done with the first exerciseg
+commit 93de2dc2cb446d17c9380a10cfe259e86a99abf0 (HEAD -> master)
+Author: Melusi Mathebula <mematheb@c5r9s7.wethinkcode.co.za>
+Date:   Tue Jul 7 14:32:19 2020 +0200
+
+    what an exercise
+
+commit 912fb4ba0b0b33fe983cdeccb941d330e69f21c7
+Author: Melusi Mathebula <mematheb@c5r9s7.wethinkcode.co.za>
+Date:   Tue Jul 7 14:25:39 2020 +0200
+
+    getting better with this 'git' stuff
+
+commit f845dbc1464a20a8247d1b927c35b1805a3c84d2
+Author: Melusi Mathebula <mematheb@c5r9s7.wethinkcode.co.za>
+Date:   Tue Jul 7 14:07:10 2020 +0200
+
+    hope i'm doing the right thing
+
+commit 5914cfceab85179f618a25e06df2b5413c7caf0a
+Author: Melusi Mathebula <mematheb@c5r9s7.wethinkcode.co.za>
+Date:   Tue Jul 7 14:02:52 2020 +0200
+
+    Getting better
+
+commit 79f1ec1a0d5593cd58ce176d5e4858a4625c6e92
+Author: Melusi Mathebula <mematheb@c5r9s7.wethinkcode.co.za>
+Date:   Tue Jul 7 13:57:25 2020 +0200
+
+    enjoying the program
+
+commit 30bbcb3a52cacfd74de5f962711b13ff2a2fba29g
